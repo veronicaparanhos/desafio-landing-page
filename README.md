@@ -19,3 +19,5 @@ Princípios utilizados no projeto:
 <br />
 
 ![image](/assets/tela.png)
+
+> Link para acessar o projeto: https://veronicaparanhos.github.io/desafio-landing-page/
